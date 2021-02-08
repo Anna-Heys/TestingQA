@@ -1,5 +1,9 @@
+<<<<<<< .merge_file_a03068
 Homework-17Homework-17
 
 This is commit!
 
 i want to merge
+=======
+Homework-17
+>>>>>>> .merge_file_a12356
