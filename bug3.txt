@@ -1,0 +1,9 @@
+Summary: if enter data 00.00.0000, result "Мне NaN лет" is shown
+
+Steps:
+1. Enter 00.00.0000 date into "Блок подсчета возраста" field
+2. Click the "Посчитать" button
+
+Expected result: no results; message about incorrect data is shown
+
+Actual result: result "Мне NaN лет" is shown
